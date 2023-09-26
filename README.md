@@ -1,6 +1,6 @@
 # CS383-AI
 
-This is a repo describing some of the projects that I did in my Artificial Intelligence class while studying at UMass Amherst. If you would like access to the projects, please contact me.
+This is a repo describing some of the projects that I did in my Artificial Intelligence class while studying at UMass Amherst. If you would like access to the projects, please contact me. It is prohibited for me to publicly share course assignments in order to prevent plagarism.
 
 Course Information:
 - This course was taken in the Fall 2023 semester. This course was modeled directly after the AI course at UC Berkeley (http://ai.berkeley.edu)
