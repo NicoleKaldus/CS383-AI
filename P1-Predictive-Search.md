@@ -1,4 +1,4 @@
-# Project 1 - Basic Search
+# Project 1 - Predictive Search
 
 Project Description:
 
