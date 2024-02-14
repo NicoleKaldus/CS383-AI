@@ -1,4 +1,4 @@
-# Project 2 - Reinforcement Learning
+# Project 3 - Reinforcement Learning
 
 Project Description:
 
