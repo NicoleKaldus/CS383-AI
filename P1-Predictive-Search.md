@@ -1,4 +1,4 @@
-# Project 0 - Basic Search
+# Project 1 - Basic Search
 
 Project Description:
 
