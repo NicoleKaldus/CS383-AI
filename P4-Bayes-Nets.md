@@ -1,4 +1,4 @@
-# Project 3 - Bayes Nets
+# Project 4 - Bayes Nets
 
 Project Description:
 
