@@ -2,6 +2,8 @@
 
 Project Description:
 
+https://people.cs.umass.edu/~sniekum/classes/383-S23/project3.php
+
 Create a Q-learning agent to have Pac-Man eat as many pellets as possible before winning or dying by ghost.
 
 Methods completed:
