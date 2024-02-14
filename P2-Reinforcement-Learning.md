@@ -1,4 +1,4 @@
-# Project 2 - Basic Search
+# Project 2 - Reinforcement Learning
 
 Project Description:
 
