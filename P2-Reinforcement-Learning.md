@@ -1,4 +1,4 @@
-# Project 0 - Basic Search
+# Project 2 - Basic Search
 
 Project Description:
 Create a Q-learning agent to have Pac-Man eat as many pellets as possible before winning or dying by ghost.
