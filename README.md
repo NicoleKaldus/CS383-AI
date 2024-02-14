@@ -10,3 +10,6 @@ Course Information:
 - It covered the topics ranging from basic uninformed search, to reinforced learning, to deep learning and ethics of AI.
 
 - This projects of this course were organized in the style of a PacMan game, where "dots" were goals, ghosts were opponents, and various AI algorithms were used to beat the traditional PacMan game.
+
+
+Final class grade: A
