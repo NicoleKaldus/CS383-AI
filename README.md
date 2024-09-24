@@ -1,5 +1,5 @@
-# CS383-AI    LINKS TO CODE AVAILABLE ON SUBMITTED RESUME
-
+# LINKS TO CODE AVAILABLE ON SUBMITTED RESUME
+## CS 383
 
 This is a repo describing some of the projects that I did in my Artificial Intelligence class while studying at UMass Amherst. If you would like access to the projects, please contact me. It is prohibited for me to publicly share course assignments in order to prevent plagarism.
 
